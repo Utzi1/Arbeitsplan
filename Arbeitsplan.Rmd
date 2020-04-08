@@ -101,6 +101,13 @@ Fragen:
 > 1. Wann und in welcher Form finden die Praxisphasenvorträge statt
 > 2. Besteht in Naher Zukunft die Möglichkeit, das Paket unter realen Bedingungen zu Testen
 
+### ab 8.04
+
+* Weitere Altdaten auswerten
+* Mehr Daten aus dem Bereich Verfahrenstechnik sammeln
+* Molekularbiologie miteinbeziehen
+* GroWi bezüglich Praxisphasenbericht anrufen
+
 ### ab 14.04 
 
 * Testen des Paket mit Datensätzen aus den Praktika
