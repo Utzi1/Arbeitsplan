@@ -110,6 +110,10 @@ Fragen:
 
 ### ab 14.04 
 
+* Optimieren des Pakets Entsprechend der CRAN-Anforderungen
+
+### Bis auf weiters verschoben
+
 * Testen des Paket mit Datensätzen aus den Praktika
 * 
 
