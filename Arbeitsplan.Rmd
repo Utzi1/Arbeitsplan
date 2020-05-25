@@ -38,7 +38,6 @@ Das Langzeitziel besteht aus:
 
 > WICHTIG in diesem Zeitraum ein erstes Treffen mit GroWi und Andreas Busjahn vereinbaren
 #### 05.02 
-
 * Arbeitsplan updaten
 * Weiter in r-pgs's einlesen 
 * Shiny erkunden
@@ -90,8 +89,75 @@ Fragen:
 * Alte Protokolle/Skripte auswerten
 * Funktionen dazu definieren
 
+### Standpunkt 24.03
+
+* Beginn der Niederschrift eines Praxisphasenbericht
+* Paket BTBA heißt nun Biotech
+* Biotech enthält Beispieldatensätze
+* Biotech wird aktuell um die verschiedenen Hilfen ergänzt
+
+> Aufgrund der aktuellen Umstände wäre sind einige unbeantwortete Fragen noch im Raum
+> 1. Wann und in welcher Form finden die Praxisphasenvorträge statt
+> 2. Besteht in Naher Zukunft die Möglichkeit, das Paket unter realen Bedingungen zu Testen
+### ab 8.04
+
+* Weitere Altdaten auswerten
+* Mehr Daten aus dem Bereich Verfahrenstechnik sammeln
+* Molekularbiologie miteinbeziehen
+* GroWi bezüglich Praxisphasenbericht anrufen
 
 ### ab 14.04 
+
+* Optimieren des Pakets Entsprechend der CRAN-Anforderungen
+
+### bis zum 01.05
+
+> Abgabe Praxisbericht
+
+# Beginn der Bachelor-Phase
+
+## Timeline
+
+### ab 05.05 
+
+* Einfindung in die Bachelorphase
+
+### ab 14.05
+
+* Erarbeiten der Struktur der Arbeit
+* Einführung schreiben
+
+### ab Juni
+
+> Paket ausfeilen
+
+## Verzeichnisse 
+Die Verzeichnisse sollen sinnvoll sein, im Abbildungsverzeichnis keine zu langen Texte und bei Abbildungen eine Legende
+
+## Pulvermüller's Stuff
+
+Die Skripte von Pulvermüller untersuchen und verstehen, da sollte machbar sein, dann aber auch etwas auf die Didaktik eingehen.
+
+
+# Bewerbung Master
+
+## Bescheinigungen
+
+* Zulassungsbescheinigung vom Dekanat einholen
+* Praxisphasenvertrag an Götz weiterleiten
+
+## Bewerbungen
+
+* Beuth
+* TU
+* angewandte Bioinformatik Mainz
+* Bioanalytik Coburg
+* BT Münster
+* Uni Ulm (Industrielle Biotechnlogie)
+
+
+
+### Bis auf weiters verschoben
 
 * Testen des Paket mit Datensätzen aus den Praktika
 * 
