@@ -99,6 +99,10 @@ Fragen:
 > Aufgrund der aktuellen Umstände wäre sind einige unbeantwortete Fragen noch im Raum
 > 1. Wann und in welcher Form finden die Praxisphasenvorträge statt
 > 2. Besteht in Naher Zukunft die Möglichkeit, das Paket unter realen Bedingungen zu Testen
+<<<<<<< HEAD
+=======
+
+>>>>>>> 81ec397c998bd782ceb72a3cb3c71dc25a6f4414
 ### ab 8.04
 
 * Weitere Altdaten auswerten
@@ -110,6 +114,7 @@ Fragen:
 
 * Optimieren des Pakets Entsprechend der CRAN-Anforderungen
 
+<<<<<<< HEAD
 ### bis zum 01.05
 
 > Abgabe Praxisbericht
@@ -157,6 +162,8 @@ Die Skripte von Pulvermüller untersuchen und verstehen, da sollte machbar sein,
 
 
 
+=======
+>>>>>>> 81ec397c998bd782ceb72a3cb3c71dc25a6f4414
 ### Bis auf weiters verschoben
 
 * Testen des Paket mit Datensätzen aus den Praktika
